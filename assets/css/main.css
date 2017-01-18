@@ -321,7 +321,7 @@
 	}
 
 	.\38 u, .\38 u\24 {
-		width: 66.6666666667%;
+		width: 100%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -1661,7 +1661,7 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/##.png");
+		background: #CCE8F4 url("../../images/music.png");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -1758,6 +1758,10 @@
 
 	#copyright {
 		text-align: center;
+		margin-left:40%;
+		height: 50px;
+		width:70em;
+		
 	}
 
 		#copyright .links {
@@ -1765,8 +1769,9 @@
 			background: #2C2929;
 			background: rgba(255, 255, 255, 0.05);
 			border-radius: 5px;
-			margin: 0;
+			
 		}
+		
 
 /* Desktop */
 
